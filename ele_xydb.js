@@ -1,7 +1,7 @@
 /**
  * @平行绳 飞机频道：https://t.me/tigerorrose
  * 变量：elmck: 必填，账号cookie，短信登录面板项目地址：https://github.com/funaihui/eleWeb
- * cron 0 6 10 * * *
+ * cron 1
  * 只参与 20 无门槛夺宝
  * 2023.8.1 更新：首次发布；
  * 2023.8.2 更新：修复不参与夺宝问题，添加夺宝成功推送；
