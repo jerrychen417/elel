@@ -1,5 +1,5 @@
 /**
- * cron: 0 22 * * *
+ * cron: 22 22 * * *
  * 推送今日乐园币，总吃货豆和钱包余额
  * 推送 wxpush，要求 cookie 里面有 wxUid,如'unb=xxx;cookie2=xxxUSERID=xx;SID=xxx;wxUid=xx;'
  */
