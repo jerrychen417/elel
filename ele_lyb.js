@@ -1,3 +1,8 @@
+/**
+ * 
+ * cron: 1
+ */
+const $ = new Env('乐园币签到');
 const {
   sign,
   getToken,
