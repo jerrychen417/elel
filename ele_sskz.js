@@ -1,6 +1,11 @@
+/**
+ * 
+ * cron: 12 9,18 * * *
+ */
 //Wed Aug 07 2024 14:21:49 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
+const $ = new Env('食神客栈');
 const {
     validateCarmeWithType: _0xd12380,
     commonRequest: _0x5da2a0,
