@@ -1,7 +1,7 @@
 /**
  * @枫叶
  * 变量：elmck: 必填，账号cookie
- * cron 1 1 11 * * *
+ * cron 1
  */
 
 const $ = new Env('枫叶_吃货豆');
