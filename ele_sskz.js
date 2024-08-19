@@ -1,6 +1,6 @@
 /**
  * 
- * cron: 12 9,18 * * *
+ * cron: 7 9,18 * * *
  */
 //Wed Aug 07 2024 14:21:49 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
