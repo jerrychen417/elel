@@ -2,7 +2,7 @@
  * @平行绳 飞机频道：https://t.me/tigerorrose
  * 变量：elmck: 必填，账号cookie，短信登录面板项目地址：https://github.com/funaihui/eleWeb
  * 定时随意，每天跑一遍就可以
- * cron: 7 17 * * *
+ * cron: 7 8,17 * * *
  * 2030.8.11 更新：从乐园币提取抽来，作为单独的脚本
  */
 
